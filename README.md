@@ -22,11 +22,11 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 ---
 
 **🪄 My latest commits :>**
+- [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"Fix KeyError"*
+- [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"Add latest commit history list"*
+- [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"Add latest commits to README template"*
 - [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"Fix UnboundLocalError again?"*
 - [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"Fix UnboundLocalError"*
-- [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"Fix missing import and replace deprecated code"*
-- [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"Fix missing import and replace deprecated code"*
-- [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"Add README magik actions"*
 
 ---
 
@@ -38,5 +38,5 @@ Email: me@jayx2u.fyi
 ---
 
 <p align="right">
-  <em>Last updated: 24 July 2025 11:11:38 UTC</em>
+  <em>Last updated: 24 July 2025 11:29:41 UTC</em>
 </p>
