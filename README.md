@@ -22,11 +22,11 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 ---
 
 **🪄 My latest commits :>**
-- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Make the project a template"*
-- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Initial commit"*
-- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Add files via upload"*
-- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Update README.md"*
-- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Update README.md"*
+- [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"Test updating template"*
+- [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"🪄 Sprinkle the README with some magik"*
+- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Make updating template actually propagate the changes"*
+- [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"🪄 Sprinkle the README with some magik"*
+- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Change formatting"*
 
 ---
 
@@ -38,7 +38,7 @@ Email: me@jayx2u.fyi
 ---
 
 <p align="right">
-  <em>Last updated: 24 July 2025 21:23:02 UTC</em>
+  <em>Last updated: 24 July 2025 22:23:10 UTC</em>
   <br>
   <small>Automated with <a href="https://github.com/Jayx2u/readme-magik">readme-magik</a></small>
 </p>
