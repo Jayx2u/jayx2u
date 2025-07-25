@@ -23,10 +23,10 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 
 **🪄 My latest commits :>**
 - [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"🪄 Sprinkle the README with some magik"*
-- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Make it always override the README"*
-- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Fix FileNotFoundError"*
+- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Add customisation section"*
 - [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"🪄 Sprinkle the README with some magik"*
-- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Revert "Please fix I'm desperate""*
+- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Final polishing"*
+- [`Jayx2u/jayx2u`](https://github.com/Jayx2u/jayx2u) - *"🪄 Sprinkle the README with some magik"*
 
 ---
 
@@ -38,7 +38,7 @@ Email: me@jayx2u.fyi
 ---
 
 <p align="right">
-  <em>Last updated: 24 July 2025 23:23:17 UTC</em>
+  <em>Last updated: 25 July 2025 00:11:33 UTC</em>
   <br>
   <small>Automated with <a href="https://github.com/Jayx2u/readme-magik">readme-magik</a></small>
 </p>
