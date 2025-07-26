@@ -26,7 +26,6 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 - [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Add customisation section"*
 - [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Final polishing"*
 - [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Add extra steps required"*
-- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Make it always override the README"*
 
 ---
 
@@ -38,7 +37,7 @@ Email: me@jayx2u.fyi
 ---
 
 <p align="right">
-  <em>Last updated: 26 July 2025 05:24:55 UTC</em>
+  <em>Last updated: 26 July 2025 06:33:40 UTC</em>
   <br>
   <small>Automated with <a href="https://github.com/Jayx2u/readme-magik">readme-magik</a></small>
 </p>
