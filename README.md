@@ -22,11 +22,11 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 ---
 
 **🪄 My latest commits :>**
+- [`Jayx2u/blind-defusal`](https://github.com/Jayx2u/blind-defusal) - *"Add BOM to README"*
 - [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Add customisation section"*
 - [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Final polishing"*
 - [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Add extra steps required"*
 - [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Make it always override the README"*
-- [`Jayx2u/readme-magik`](https://github.com/Jayx2u/readme-magik) - *"Fix FileNotFoundError"*
 
 ---
 
@@ -38,7 +38,7 @@ Email: me@jayx2u.fyi
 ---
 
 <p align="right">
-  <em>Last updated: 25 July 2025 23:22:54 UTC</em>
+  <em>Last updated: 26 July 2025 01:55:48 UTC</em>
   <br>
   <small>Automated with <a href="https://github.com/Jayx2u/readme-magik">readme-magik</a></small>
 </p>
