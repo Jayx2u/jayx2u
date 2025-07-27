@@ -22,7 +22,7 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 ---
 
 **🪄 My latest commits :>**
-- [`Jayx2u/blind-defusal`](https://github.com/Jayx2u/blind-defusal) - *"Add BOM to README"*
+
 
 ---
 
@@ -34,7 +34,7 @@ Email: me@jayx2u.fyi
 ---
 
 <p align="right">
-  <em>Last updated: 27 July 2025 06:34:11 UTC</em>
+  <em>Last updated: 27 July 2025 07:21:36 UTC</em>
   <br>
   <small>Automated with <a href="https://github.com/Jayx2u/readme-magik">readme-magik</a></small>
 </p>
