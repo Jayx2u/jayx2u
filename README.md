@@ -22,11 +22,11 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 ---
 
 **🪄 My latest commits :>**
+- [`Jayx2u/neonav`](https://github.com/Jayx2u/neonav) - *"Update BOM with costs"*
 - [`Jayx2u/neonav`](https://github.com/Jayx2u/neonav) - *"Add total hours spent"*
 - [`Jayx2u/neonav`](https://github.com/Jayx2u/neonav) - *"Add BOM and showcase files"*
 - [`Jayx2u/neonav`](https://github.com/Jayx2u/neonav) - *"Add CAD files"*
 - [`Jayx2u/neonav`](https://github.com/Jayx2u/neonav) - *"Update journal entry"*
-- [`Jayx2u/neonav`](https://github.com/Jayx2u/neonav) - *"Update pcb files"*
 
 ---
 
@@ -38,7 +38,7 @@ Email: me@jayx2u.fyi
 ---
 
 <p align="right">
-  <em>Last updated: 01 August 2025 14:24:57 UTC</em>
+  <em>Last updated: 01 August 2025 15:26:10 UTC</em>
   <br>
   <small>Automated with <a href="https://github.com/Jayx2u/readme-magik">readme-magik</a></small>
 </p>
