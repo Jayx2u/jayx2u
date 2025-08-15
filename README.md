@@ -22,11 +22,11 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 ---
 
 **🪄 My latest commits :>**
+- [`Jayx2u/vocalink`](https://github.com/Jayx2u/vocalink) - *"Fix markdown"*
 - [`Jayx2u/meowpad`](https://github.com/Jayx2u/meowpad) - *"Add showcase"*
 - [`Jayx2u/vocalink`](https://github.com/Jayx2u/vocalink) - *"Add showcase to README"*
 - [`Jayx2u/vocalink`](https://github.com/Jayx2u/vocalink) - *"Add final build journal entry"*
 - [`Jayx2u/vocalink`](https://github.com/Jayx2u/vocalink) - *"Add build photos"*
-- [`Jayx2u/vocalink`](https://github.com/Jayx2u/vocalink) - *"Add time spent"*
 
 ---
 
@@ -38,7 +38,7 @@ Email: me@jayx2u.fyi
 ---
 
 <p align="right">
-  <em>Last updated: 15 August 2025 06:34:30 UTC</em>
+  <em>Last updated: 15 August 2025 07:22:03 UTC</em>
   <br>
   <small>Automated with <a href="https://github.com/Jayx2u/readme-magik">readme-magik</a></small>
 </p>
