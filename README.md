@@ -22,7 +22,7 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 ---
 
 **🪄 My latest commits :>**
-- [`Jayx2u/vocalink`](https://github.com/Jayx2u/vocalink) - *"Add video demo"*
+
 
 ---
 
@@ -34,7 +34,7 @@ Email: me@jayx2u.fyi
 ---
 
 <p align="right">
-  <em>Last updated: 24 August 2025 08:25:33 UTC</em>
+  <em>Last updated: 24 August 2025 09:20:05 UTC</em>
   <br>
   <small>Automated with <a href="https://github.com/Jayx2u/readme-magik">readme-magik</a></small>
 </p>
