@@ -12,6 +12,8 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 
 <sup>*Please star it! It would mean a lot <3*</sup>
 
+---
+
 **📮 Wanna slide into my contacts?**
 ```text
 Email: me@jayx2u.fyi
