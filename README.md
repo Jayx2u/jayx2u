@@ -12,20 +12,6 @@ Random human from down under tinkering with hardware, crafting Figma designs, an
 
 <sup>*Please star it! It would mean a lot <3*</sup>
 
----
-
-**📡 Some stats**
-- **Total Stars Earned:** 20
-- **Public Repositories:** 12
-- **Top Languages:** Python, TypeScript
-
----
-
-**🪄 My latest commits :>**
-
-
----
-
 **📮 Wanna slide into my contacts?**
 ```text
 Email: me@jayx2u.fyi
@@ -34,7 +20,5 @@ Email: me@jayx2u.fyi
 ---
 
 <p align="right">
-  <em>Last updated: 14 October 2025 17:18:24 UTC</em>
-  <br>
-  <small>Automated with <a href="https://github.com/Jayx2u/readme-magik">readme-magik</a></small>
+  <small>:3</small>
 </p>
